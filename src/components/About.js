@@ -20,7 +20,6 @@ export default class About extends Component {
                  resumeData.aboutme
                }
                </p>
-
                <div className="row">
 
                   <div className="columns contact-details">
@@ -33,6 +32,10 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
+                      <span> CV details :
+                          <a target="_blank" href={resumeData.cv}> see cv file</a>
+                    </span>
+                      <br></br>
                     <span>{resumeData.website}</span>
        					   </p>
                   </div>

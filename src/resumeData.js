@@ -1,5 +1,6 @@
 let resumeData = {
     "imagebaseurl": "https://marcelo.xepanunty.com/",
+    "cv": "https://mteixeira-site.s3.eu-central-1.amazonaws.com/Europass-TEIXEIRA-20200511-EN-122452.pdf",
     "name": "Marcelo Teixeira",
     "role": "CTO / Senior Full Stack / Project Manager",
     "linkedinId": "andremarcelo",
@@ -24,7 +25,7 @@ let resumeData = {
         "Currently, I’m available to support/help companies to improve internal processes (Supply chain/Others)\n" +
         "I can accept any project in consulting (freelancer/other types (speaking!)).\n" +
         "In Energy, banking, trading, transports, or specific business. I'm PHP frameworks expert + Databases. Web apps and invoice systems is my expertise!",
-    "address": "Luxembourg",
+    "address": "Luxembourg : +351926608440",
     "website": "https://marcelo.xepanunty.com",
     "education": [
         {
